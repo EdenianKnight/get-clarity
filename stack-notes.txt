@@ -1,0 +1,13 @@
+X (formerly twitter) account for clarinet/clarity/stacks/hirosystems
+@Stacks
+@StacksOrg
+@hirosyatems
+
+
+Resources
+1. The Complete Beginner's Guide to Full-Stack Stacks Development Post-Nakamoto
+Edition (2024)- https://www.youtube.com/watch?v=Z9JQU_sOQLQ
+
+2. Clarity of mind - https://book.clarity-lang.org/title-page.html
+
+3. 
